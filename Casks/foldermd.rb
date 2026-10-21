@@ -1,6 +1,6 @@
 cask "foldermd" do
-  version "0.1.12"
-  sha256 "99f7204b6d997fcb02479650b8adeea766e3103885ec662248f983c55de7212f"
+  version "0.1.13"
+  sha256 "3ddad19b0a78b9df54379a235e8d25559e3d67661fe94caf85754da6bf68d9bf"
 
   url "https://downloads.foldermd.com/FolderMD-#{version}.dmg"
   name "FolderMD"
